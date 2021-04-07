@@ -8,8 +8,8 @@
   * [Directory Tree](#directory-tree)
   * [Future scope of project](#future-scope)
 
+![](master/app.py)
 
-https://github.com/yash-gif/flight-price-prediction/blob/master/app.py
 
 
 ## Overview
