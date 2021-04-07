@@ -8,7 +8,7 @@
   * [Directory Tree](#directory-tree)
   * [Future scope of project](#future-scope)
 
-![](Screenshot (404).png)
+![](Screenshot%20(404).png)
 
 
 
